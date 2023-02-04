@@ -11,7 +11,7 @@ An app that students introduce themselves by inputing their information.
 ![x](https://github.com/kvistud/codepath-prework/blob/main/AppWalkThrough.gif) 
 
 ## Required Features
--[x] 1. App displays an image of a school's logo
+- [x] 1. App displays an image of a school's logo
 * [x]2. App has three textfields for first, last, and school names
 * [x]3. App has a segmented control that changes student year
 * [x]4. Number of pet matches label is increased/decreased by stepper
